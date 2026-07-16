@@ -1,7 +1,3 @@
-**Here's a clean, honest, and professional Privacy Policy** tailored for your **PhishGuard** extension.
-
----
-
 ### **Privacy Policy**
 
 **Last Updated:** July 15, 2026
