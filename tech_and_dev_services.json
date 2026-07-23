@@ -1,0 +1,31 @@
+{
+  "techAndDevServices": [
+    "google.com",
+    "microsoft.com",
+    "apple.com",
+    "openai.com",
+    "chatgpt.com",
+    "cloudflare.com",
+    "vercel.app",
+    "netlify.app",
+    "w3schools.com",
+    "stackoverflow.com",
+    "developer.mozilla.org",
+    "npmjs.com",
+    "github.io",
+    "github.com",
+    "codepen.io",
+    "jsfiddle.net",
+    "gitlab.com",
+    "bitbucket.org",
+    "canva.com",
+    "figma.com",
+    "adobe.com",
+    "stripe.com",
+    "paypal.com",
+    "zoom.us",
+    "slack.com",
+    "discord.com",
+    "producthunt.com"
+  ]
+}
