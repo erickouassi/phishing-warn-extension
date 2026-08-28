@@ -1,1 +1,6 @@
-{}
+{
+  "blockedAdult": [
+  "pornhub.com",
+	"zzitube.com"
+  ]
+}
