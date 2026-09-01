@@ -28,5 +28,6 @@
   "https://raw.githubusercontent.com/erickouassi/phishing-warn-extension/refs/heads/main/blocked-sites/blocked-sites-x.json",
   "https://raw.githubusercontent.com/erickouassi/phishing-warn-extension/refs/heads/main/blocked-sites/blocked-sites-y.json",
   "https://raw.githubusercontent.com/erickouassi/phishing-warn-extension/refs/heads/main/blocked-sites/blocked-sites-z.json",
+  "https://raw.githubusercontent.com/erickouassi/phishing-warn-extension/refs/heads/main/blocked-sites/teqsa-blocked-illegal-cheating-websites.json",
   "https://raw.githubusercontent.com/erickouassi/phishing-warn-extension/refs/heads/main/blocked-chat.json"
 ]
