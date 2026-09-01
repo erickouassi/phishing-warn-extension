@@ -1,0 +1,18 @@
+[
+  "gov", "mil", "int", "post", "gouv",
+  "gov.uk", "gov.au", "gov.sg", "gov.cn", "gov.in",
+  "gov.za", "gov.br", "gov.ca", "gov.ph", "gov.ng",
+  "med", "doctor", "dds", "pharmacy", "vet", "bio",
+  "bank", "insurance", "cpa", "law", "trust", "broker",
+  "arpa", "root", "nic", "dns", "secure",
+  "catholic", "bible", "latterdaysaints", "halal", "kosher", "vatican",
+  "google", "goog", "youtube", "chrome", "android", "docs", "drive",
+  "apple", "icloud", "mac", "imessage",
+  "microsoft", "windows", "xbox", "office",
+  "amazon", "aws", "prime", "kindle",
+  "facebook", "instagram", "whatsapp",
+  "bmw", "mini", "audi", "volkswagen", "lexus", "ford", "lincoln",
+  "merck", "pfizer", "novartis", "intel", "amd", "oracle", "ibm",
+  "aetna", "allstate", "americanexpress", "visa", "chase", "citi",
+  "walmart", "target", "nike", "adidas", "marriott", "hilton"
+]
