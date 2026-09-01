@@ -1,5 +1,6 @@
 [
-  "gov", "mil", "int", "post", "gouv",
+  "gov", "mil", "int", "post", "gouv", "gouv.ci", 
+  "gouv.fr", "gouv.sn", "gouv.tn", "gouv.ma",
   "gov.uk", "gov.au", "gov.sg", "gov.cn", "gov.in",
   "gov.za", "gov.br", "gov.ca", "gov.ph", "gov.ng",
   "med", "doctor", "dds", "pharmacy", "vet", "bio",
