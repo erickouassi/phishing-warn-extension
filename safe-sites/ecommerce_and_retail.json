@@ -20,12 +20,114 @@
     "amazon.sa",
     "amazon.com.tr",
     "amazon.eg",
+
     "ebay.com",
     "ebay.co.uk",
     "ebay.de",
     "ebay.fr",
+
     "walmart.com",
     "aliexpress.com",
-    "gumroad.com"
+    "gumroad.com",
+
+    "etsy.com",
+    "shopify.com",
+    "target.com",
+    "bestbuy.com",
+    "costco.com",
+    "samsclub.com",
+    "homedepot.com",
+    "lowes.com",
+    "wayfair.com",
+    "overstock.com",
+    "newegg.com",
+    "bhphotovideo.com",
+    "microcenter.com",
+
+    "shein.com",
+    "temu.com",
+    "zalando.com",
+    "asos.com",
+    "farfetch.com",
+    "zara.com",
+    "hm.com",
+    "uniqlo.com",
+    "primark.com",
+
+    "mercadolibre.com",
+    "rakuten.co.jp",
+    "rakuten.com",
+    "flipkart.com",
+    "snapdeal.com",
+    "bigbasket.com",
+    "jd.com",
+    "taobao.com",
+    "tmall.com",
+    "pinduoduo.com",
+
+    "carrefour.com",
+    "tesco.com",
+    "sainsburys.co.uk",
+    "aldi.us",
+    "lidl.com",
+    "argos.co.uk",
+
+    "shop.app",
+    "bigcommerce.com",
+    "woocommerce.com",
+    "magento.com",
+    "prestashop.com",
+    "opencart.com",
+
+    "wish.com",
+    "banggood.com",
+    "dhgate.com",
+    "lightinthebox.com",
+    "gearbest.com",
+
+    "reverb.com",
+    "stockx.com",
+    "goat.com",
+    "grailed.com",
+    "poshmark.com",
+    "depop.com",
+    "vinted.com",
+
+    "chewy.com",
+    "petsmart.com",
+    "petco.com",
+
+    "sephora.com",
+    "ulta.com",
+    "bathandbodyworks.com",
+
+    "nike.com",
+    "adidas.com",
+    "puma.com",
+    "reebok.com",
+    "underarmour.com",
+
+    "ikea.com",
+    "ashleyfurniture.com",
+    "rooms-to-go.com",
+
+    "staples.com",
+    "officedepot.com",
+
+    "harborfreight.com",
+    "acehardware.com",
+
+    "crateandbarrel.com",
+    "potterybarn.com",
+
+    "michaels.com",
+    "joann.com",
+
+    "barnesandnoble.com",
+    "bookdepository.com",
+
+    "costco.ca",
+    "walmart.ca",
+    "argos.ie"
   ]
 }
