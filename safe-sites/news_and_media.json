@@ -1,0 +1,82 @@
+{
+  "newsAndMedia": [
+    "cnn.com",
+    "bbc.com",
+    "nytimes.com",
+    "washingtonpost.com",
+    "foxnews.com",
+    "nbcnews.com",
+    "cbsnews.com",
+    "abcnews.go.com",
+    "usatoday.com",
+    "newsweek.com",
+    "time.com",
+
+    "reuters.com",
+    "apnews.com",
+    "bloomberg.com",
+    "financialtimes.com",
+    "wsj.com",
+    "marketwatch.com",
+    "forbes.com",
+    "fortune.com",
+    "economist.com",
+
+    "politico.com",
+    "thehill.com",
+    "axios.com",
+    "slate.com",
+    "vox.com",
+    "motherjones.com",
+    "nationalreview.com",
+    "theatlantic.com",
+    "newyorker.com",
+
+    "aljazeera.com",
+    "dw.com",
+    "france24.com",
+    "rt.com",
+    "sky.com",
+    "cbc.ca",
+    "globalnews.ca",
+    "abc.net.au",
+    "theguardian.com",
+
+    "npr.org",
+    "pbs.org",
+    "c-span.org",
+
+    "engadget.com",
+    "techcrunch.com",
+    "wired.com",
+    "theverge.com",
+    "gizmodo.com",
+    "arstechnica.com",
+
+    "scientificamerican.com",
+    "nature.com",
+    "newscientist.com",
+    "livescience.com",
+    "space.com",
+    "nationalgeographic.com",
+
+    "hollywoodreporter.com",
+    "variety.com",
+    "deadline.com",
+    "ew.com",
+
+    "tmz.com",
+    "people.com",
+    "eonline.com",
+
+    "rollingstone.com",
+    "billboard.com",
+    "pitchfork.com",
+
+    "sportsillustrated.com",
+    "espn.com",
+    "bleacherreport.com",
+    "cbssports.com",
+    "yahoosports.com"
+  ]
+}
