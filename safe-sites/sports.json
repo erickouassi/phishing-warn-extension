@@ -1,0 +1,93 @@
+{
+  "sports": [
+    "nba.com",
+    "wnba.com",
+    "nba2k.com",
+    "nfl.com",
+    "mlb.com",
+    "nhl.com",
+    "mls.com",
+    "uslsoccer.com",
+    "nascar.com",
+    "indycar.com",
+    "formula1.com",
+    "motogp.com",
+
+    "fifa.com",
+    "uefa.com",
+    "concacaf.com",
+    "cafonline.com",
+    "afc.com",
+    "conmebol.com",
+
+    "premierleague.com",
+    "bundesliga.com",
+    "laliga.com",
+    "ligue1.com",
+    "seriea.com",
+    "eredivisie.nl",
+    "mlssoccer.com",
+
+    "manutd.com",
+    "liverpoolfc.com",
+    "realmadrid.com",
+    "fcbarcelona.com",
+    "juventus.com",
+    "psg.fr",
+    "bvb.de",
+    "chelseafc.com",
+    "arsenal.com",
+    "mancity.com",
+
+    "ufc.com",
+    "bellator.com",
+    "onefc.com",
+    "pflmma.com",
+
+    "wwe.com",
+    "aew.com",
+    "njpw1972.com",
+
+    "pga.com",
+    "pgatour.com",
+    "lpga.com",
+    "usga.org",
+    "masters.com",
+
+    "atptour.com",
+    "wtatennis.com",
+    "itftennis.com",
+    "tennis.com",
+    "rolandgarros.com",
+    "wimbledon.com",
+    "usopen.org",
+    "ausopen.com",
+
+    "espn.com",
+    "cbssports.com",
+    "bleacherreport.com",
+    "yahoosports.com",
+    "foxsports.com",
+    "nbcsports.com",
+    "skysports.com",
+
+    "sportsillustrated.com",
+    "theathletic.com",
+
+    "sofascore.com",
+    "flashscore.com",
+    "livescore.com",
+
+    "nike.com",
+    "adidas.com",
+    "puma.com",
+    "underarmour.com",
+    "reebok.com",
+    "newbalance.com",
+    "asics.com",
+    "fila.com",
+
+    "topps.com",
+    "paniniamerica.net"
+  ]
+}
