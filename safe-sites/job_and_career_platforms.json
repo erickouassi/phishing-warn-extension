@@ -1,0 +1,76 @@
+{
+  "jobAndCareerPlatforms": [
+    "indeed.com",
+    "glassdoor.com",
+    "monster.com",
+    "ziprecruiter.com",
+    "careerbuilder.com",
+    "simplyhired.com",
+    "snagajob.com",
+    "jobcase.com",
+    "dice.com",
+
+    "upwork.com",
+    "fiverr.com",
+    "freelancer.com",
+    "toptal.com",
+    "guru.com",
+    "peopleperhour.com",
+
+    "angel.co",
+    "wellfound.com",
+    "hired.com",
+    "lever.co",
+    "greenhouse.io",
+    "workday.com",
+    "bamboohr.com",
+
+    "roberthalf.com",
+    "adeccousa.com",
+    "randstadusa.com",
+    "manpower.com",
+
+    "salary.com",
+    "payscale.com",
+    "levels.fyi",
+
+    "zipjob.com",
+    "resumenerd.com",
+    "resume.io",
+    "novoresume.com",
+    "enhancv.com",
+
+    "myperfectresume.com",
+    "livecareer.com",
+
+    "themuse.com",
+    "fairygodboss.com",
+    "workitdaily.com",
+
+    "glassdoor.com",
+    "comparably.com",
+
+    "careerkarma.com",
+    "pathrise.com",
+    "springboard.com",
+    "generalassemb.ly",
+
+    "oysterhr.com",
+    "remote.com",
+    "weworkremotely.com",
+    "remoteok.com",
+    "flexjobs.com",
+
+    "internships.com",
+    "wayup.com",
+    "handshake.com",
+
+    "govtjobs.com",
+
+    "jobstreet.com",
+    "seek.com.au",
+    "reed.co.uk",
+    "totaljobs.com",
+    "jobbank.gc.ca"
+  ]
+}
