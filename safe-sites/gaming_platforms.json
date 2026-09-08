@@ -1,0 +1,85 @@
+{
+  "gamingPlatforms": [
+    "steampowered.com",
+    "epicgames.com",
+    "playstation.com",
+    "xbox.com",
+    "nintendo.com",
+    "ea.com",
+    "origin.com",
+    "ubisoft.com",
+    "ubisoftconnect.com",
+    "battle.net",
+    "blizzard.com",
+    "riotgames.com",
+    "leagueoflegends.com",
+    "valorant.com",
+    "minecraft.net",
+    "roblox.com",
+    "fortnite.com",
+    "rockstargames.com",
+    "bethesda.net",
+    "gog.com",
+    "itch.io",
+    "humblebundle.com",
+    "greenmangaming.com",
+    "gamestop.com",
+
+    "twitch.tv",
+
+    "boosteroid.com",
+    "shadow.tech",
+
+    "stadia.google.com",
+    "xboxcloudgaming.com",
+
+    "steamcommunity.com",
+    "moddb.com",
+    "nexusmods.com",
+
+    "pokemon.com",
+    "bungie.net",
+    "halo.com",
+    "callofduty.com",
+    "fifa.com",
+    "nba2k.com",
+
+    "playstationstore.com",
+    "nintendoeurope.com",
+    "nintendo.co.jp",
+
+    "supercell.com",
+    "clashofclans.com",
+    "clashroyale.com",
+    "brawlstars.com",
+
+    "king.com",
+    "candycrush.com",
+
+    "zynga.com",
+    "farmville.com",
+
+    "konami.com",
+    "capcom.com",
+    "square-enix.com",
+    "bandainamcoent.com",
+    "sega.com",
+
+    "unity.com",
+    "unrealengine.com",
+    "godotengine.org",
+
+    "esrb.org",
+    "pegi.info",
+
+    "speedrun.com",
+    "hltv.org",
+    "eslgaming.com",
+    "faceit.com",
+
+    "steamdb.info",
+    "metacritic.com",
+    "ign.com",
+    "gamespot.com"
+  ]
+}
