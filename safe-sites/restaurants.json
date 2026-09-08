@@ -1,0 +1,77 @@
+{
+  "restaurants": [
+    "mcdonalds.com",
+    "burgerking.com",
+    "wendys.com",
+    "sonicdrivein.com",
+    "arbys.com",
+    "jackinthebox.com",
+    "culvers.com",
+    "fiveguys.com",
+    "shakeShack.com",
+    "in-n-out.com",
+
+    "kfc.com",
+    "popeyes.com",
+    "chick-fil-a.com",
+    "churchs.com",
+    "raisingcanes.com",
+    "wingstop.com",
+    "zaxbys.com",
+
+    "dominos.com",
+    "pizzahut.com",
+    "papajohns.com",
+    "littlecaesars.com",
+    "marcos.com",
+    "sbarro.com",
+
+    "chipotle.com",
+    "qdobamex.com",
+    "tacobell.com",
+    "moes.com",
+    "delTaco.com",
+
+    "olivegarden.com",
+    "redlobster.com",
+    "outback.com",
+    "longhornsteakhouse.com",
+    "texasroadhouse.com",
+    "applebees.com",
+    "chilis.com",
+    "tgifridays.com",
+    "cheesecakefactory.com",
+    "pfchangs.com",
+
+    "panerabread.com",
+    "subway.com",
+    "jimmyjohns.com",
+    "firehousesubs.com",
+    "jerseymikes.com",
+
+    "dunkindonuts.com",
+    "starbucks.com",
+    "timhortons.com",
+    "cariboucoffee.com",
+    "peets.com",
+
+    "coldstonecreamery.com",
+    "baskinrobbins.com",
+    "dairyqueen.com",
+    "krispykreme.com",
+
+    "benihana.com",
+    "nandos.co.uk",
+    "wagamama.com",
+    "pret.com",
+
+    "goldencorral.com",
+    "crackerbarrel.com",
+    "ihop.com",
+    "dennys.com",
+
+    "buffalowildwings.com",
+    "hooters.com",
+    "daveandbusters.com"
+  ]
+}
